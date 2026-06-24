@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Skip List 完整教學"
+categories: [資料結構]
+---
+
+# Skip List
+
+這是一篇測試文章。
+
+如果你看得到這篇文章，
+代表 Jekyll 已經正常運作。
