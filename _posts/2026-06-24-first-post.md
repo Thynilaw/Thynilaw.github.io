@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Skip List 完整教學"
-categories: [資料結構]
+categories: [修課心得]
 ---
 
 # Skip List
